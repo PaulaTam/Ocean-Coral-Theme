@@ -1,0 +1,21 @@
+{
+  "name": "ocean-coral-theme",
+  "displayName": "Ocean Coral Theme",
+  "description": "Ocean Coral theme for VSCode!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ocean Coral Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean Coral Theme-color-theme.json"
+      }
+    ]
+  }
+}

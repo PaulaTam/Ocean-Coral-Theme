@@ -1,16 +1,13 @@
-# ocean-coral-theme README
+# Ocean Coral Theme
+This is a custom VSCode theme inspired by coral reefs and the ocean. While this is meant for my own personal use, you can use it too!
 
-## Working with Markdown
+# Want any changes?
+If you want to change some colors, feel free to fork / clone this repository and change the colors for yourself! Make sure you change some important attributes in the **package.json** file as this theme is on the marketplace.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Or alternatively, you can make a pull request and leave a comment!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## What to change in the package.json if you decide to change some stuff
+- "publisher": Replace this field with your VSCode Marketplace account name
+- "repository": Replace this url with your own repository
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Thank you for using my theme!**

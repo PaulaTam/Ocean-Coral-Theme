@@ -6,10 +6,16 @@
   "engines": {
     "vscode": "^1.86.0"
   },
+  "publisher": "PaulaTam",
   "repository": {
     "type": "git",
     "url": "https://github.com/PaulaTam/Ocean-Coral-Theme.git"
   },
+  "keywords": [
+    "theme",
+    "custom theme",
+    "dark theme"
+  ],
   "categories": [
     "Themes"
   ],
